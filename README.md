@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Rudy (4rudy)
+# 👋 Hey, I'm Kisha (4rudy)
 
 I'm a gameplay-focused developer building modular, optimized systems for FiveM and beyond.  
 I love writing clean Lua logic, crafting smooth UI experiences, and making things that feel good to use.
@@ -18,8 +18,8 @@ I love writing clean Lua logic, crafting smooth UI experiences, and making thing
 
 Here are a few systems I've created or maintained:
 
-- [`frudy-petsystem`](https://github.com/4rudy/frudy-petsystem) – Modular pet companion system with shops, tricks, UI, and AI logic
-- [`your-next-repo`](#) – (Add as you go!)
+- [`fivem-petsystem`](https://github.com/ksimpson-io/fivem-petsystem) – Modular pet companion system with shops, tricks, UI, and AI logic
+
 
 ---
 
