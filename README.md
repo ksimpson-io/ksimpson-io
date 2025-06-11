@@ -17,9 +17,10 @@
 
 ### 🧠 About Me
 
-My name is Kisha but in the gaming world I go by 4rudy. I'm a self-taught dev who writes clean, structured systems with a player-first mindset.  
-I specialize in Lua-based gameplay logic, UI systems, and backend scripting for **FiveM**.  
-Currently building out my portfolio with modular features like pet systems, shops, and job mechanics — all scalable and future-proof.
+Hi, I’m Kisha, but in the gaming world I go by 4rudy (you will see commits under this handle).
+I’m a self-taught developer who builds clean, structured systems with a player-first mindset.
+I specialize in Lua-based gameplay logic, UI systems, and backend scripting for FiveM.
+Right now, I’m focused on expanding my portfolio with modular features like pet systems, shops, and job mechanics — all designed to be scalable, immersive, and future-proof.
 
 ---
 
