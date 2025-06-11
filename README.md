@@ -26,7 +26,7 @@ Right now, I’m focused on expanding my portfolio with modular features like pe
 
 ### 📌 Featured Projects
 
-- [`frudy-petsystem`](https://github.com/4rudy/frudy-petsystem) — Modular pet companion system with shops, behavior, and animations
+- [`frudy-pets`](https://github.com/ksimpson-io/fivem_petsystem) — Modular pet companion system with shops, behavior, and animations
 - _(More coming soon — I build clean and I build often.)_
 
 ---
