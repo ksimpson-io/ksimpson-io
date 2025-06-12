@@ -31,14 +31,6 @@ Right now, I’m focused on expanding my portfolio with modular features like pe
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4rudy&show_icons=true&theme=tokyonight&hide=prs&count_private=true" />
-</p>
-
----
-
 ### 🎯 Goals
 
 - Break into the game development industry by building strong foundational systems
